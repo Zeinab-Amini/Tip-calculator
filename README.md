@@ -1,3 +1,8 @@
+This project is to ask for your bill and then what percent you want to give a tip.
+After that it will ask how many people you want to share the bill with.
+After those two elements, it will calculate how much money each person needs to pay. 
+
+
 ## Tip Calculator
 
 # Instructions
